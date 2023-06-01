@@ -2,7 +2,7 @@
 
 Simple one page portfolio, made for a Bilingual Writer, Copyeditor, Proofreader and Translator. ✍🏻
 
-You can check the website here [vanessapetit.com](https://vanessapetit.com)
+You can check the website here [sameergodamimagar.com.np](https://sameergodamimagar.com.np)
 
 Also feel free to contact her if you need her skills! ⭐️
 
@@ -24,6 +24,6 @@ You can `fork` this repo and use it like a **FREE WEBSITE PORTFOLIO TEMPLATE** o
 
 ## Preview
 
- <img src="https://repository-images.githubusercontent.com/425956305/88744d1f-9325-48de-a388-f9e9ace1c9ce" alt="vanessapetit preview"/>
+ <img src="https://repository-images.githubusercontent.com/425956305/88744d1f-9325-48de-a388-f9e9ace1c9ce" alt="sameergodamimagar preview"/>
 
 
